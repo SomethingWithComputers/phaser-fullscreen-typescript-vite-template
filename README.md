@@ -41,4 +41,6 @@ npm run build
 The optimized build will appear in the `build` directory.
 
 ## Special thanks
-Feather image based on an image from the amazing [Font Awesome](https://fontawesome.com/). 
+[Phaser](https://phaser.io/) is an amazing game engine. I love it.
+
+The feather image is based on an image from the awesome [Font Awesome](https://fontawesome.com/). 
