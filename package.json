@@ -1,0 +1,25 @@
+{
+  "name": "phaser-typescript-vite-template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "vite",
+    "develop-hosted": "vite --host",
+    "build": "vite build"
+  },
+  "author": {
+    "email": "ron@somethingwithcomputers.com",
+    "name": "Ron Talman",
+    "url": "https://somethingwithcomputers.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "vite": "^3.0.8"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2",
+    "sass": "^1.54.4"
+  }
+}
